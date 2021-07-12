@@ -2,7 +2,7 @@
 <br/>
 
 <p align="middle" >
-  <img width="100px;" src="src/images/calculator_icon.png"/>
+  <img width="100px;" src="img/calculator_icon.png"/>
 </p>
 <h2 align="middle">Calculadora - JavaScript</h2>
 <p align="middle">Dados do projeto</p>
@@ -19,7 +19,7 @@
 </p>
 
 <p align="middle">
-  <a href="https://next-step.github.io/js-calculator/">🖥️ DEMO</a>
+  <a href="https://rdudarocha.github.io/Calculadora/">🖥️ DEMO</a>
 </p>
 
 <br/>
