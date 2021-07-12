@@ -15,7 +15,7 @@
 
 ## 🔥 Projeto!
 <p align="middle">
-  <img width="300" src="img/calculadora.png">
+  <img width="300" src="img/calculadora.PNG">
 </p>
 
 <p align="middle">
