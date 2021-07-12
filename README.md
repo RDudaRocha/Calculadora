@@ -15,7 +15,7 @@
 
 ## 🔥 Projeto!
 <p align="middle">
-  <img width="300" src="img/calculadora.PNG">
+  <img width="300" src="https://media.giphy.com/media/94droseTN3OR9ZX6vb/giphy.gif">
 </p>
 
 <p align="middle">
