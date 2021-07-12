@@ -2,7 +2,7 @@
 <br/>
 
 <p align="middle" >
-  <img width="100px;" src="../img/calculator_icon.png"/>
+  <img width="100px;" src="img/calculator_icon.png"/>
 </p>
 <h2 align="middle">Calculadora - JavaScript</h2>
 <p align="middle">Dados do projeto</p>
@@ -15,7 +15,7 @@
 
 ## 🔥 Projeto!
 <p align="middle">
-  <img width="300" src="../img/calculadora.png">
+  <img width="300" src="img/calculadora.png">
 </p>
 
 <p align="middle">
